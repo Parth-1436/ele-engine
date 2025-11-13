@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ele-engine"
+version = "0.1.0"
+description = "Empirical Linguistic Engine reference implementation"
+readme = "README.md"
+authors = [{name = "ELE Contributors"}]
+license = {file = "LICENSE"}
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.23",
+    "torch>=2.0.0",
+]
+
+[project.urls]
+Homepage = "https://example.com/ele-engine"
+Documentation = "https://example.com/ele-engine/docs"
